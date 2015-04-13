@@ -2,6 +2,8 @@
 
 Augmonted (Android Application) - Voted 1st App in Winter 2015 in Mobile Development Course (CSE 190)
 
+http://augmonted.github.io
+
 Brief Summary:
 Augmonted is an augmented reality based combat game, featuring our original Augmon creatures as characters trained 
 by the amount of steps you take calculated through a pedometer. 
